@@ -1,0 +1,44 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.header {
+    background-color: blue;
+    height: 100px;
+    width: 100%;
+}
+.nav {
+    background-color: palegreen;
+    height: 20px;
+    width: 100%;
+}
+.content-wrapper {
+    overflow: hidden;
+}
+.left {
+    background-color: red;
+    width: 20%;
+    height: 300px;
+    float: left;
+}
+.center {
+    background-color: cyan;
+    width: 60%;
+    height: 300px;
+    float: left;
+}
+.right {
+    background-color: maroon;
+    width: 20%;
+    height: 300px;
+    float: left;
+}
+.footer {
+    background-color: palegreen;
+    height: 20px;
+    width: 100%;
+    clear: both;
+    margin-top: -5px;
+    border-top: 1px solid black;
+}

@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.esqcima {
+    position: absolute;
+    top: 0px;
+}
+
+.esqbaixo {
+    position: absolute;
+    top: 50px;
+   
+}
+
+.dircima{
+    position: absolute;
+    top: 0px;
+    left: 50px ;
+}
+
+.dirbaixo{
+    position: absolute;
+    top: 50px;
+    left: 50px;
+}
